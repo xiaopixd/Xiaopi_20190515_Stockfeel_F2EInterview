@@ -35,3 +35,6 @@
 2. 選擇`高至低`時，依照當下所選屬性(報酬率/收盤價))的數值高至低排序，`低至高`則反之。
 3. 當 `只顯示特選商品` 勾選時，只顯示 `specialStock` 屬性為 `true` 的商品。
 4. 頁面載入時，請按照`報酬率高至低`排序。
+
+
+![lemon](https://www.stockfeel.com.tw/wp-content/themes/stockfeel_2016_theme/images/index/bear@2x.png)
